@@ -1,2 +1,2 @@
 # CMS
-A backstage of a forum created with PHP
+A backstage of a forum created with PHP and MySQL
